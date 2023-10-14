@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello Folks 👋
+
+🚀 Welcome to my GitHub! I'm a dedicated BSCS student at NED University with much curiosity for data engineering and cloud technology. Join me on this exciting journey as I Learn/Explore and create robust data pipelines and embrace the future of technology! 🌟
+_______________________________________________________________________________________________________________________________________________________
+### 🔭 Technology I have worked on <br>
+<img src="https://github.com/BasitAli05/BasitAli05/assets/106751594/ccadd77d-dd33-4790-9223-041f1a9e2dba" alt="Apache Spark" width="120" height="70">
+<img src="https://github.com/BasitAli05/BasitAli05/assets/106751594/fe07475a-9521-4a30-ae11-5983bdddf6ce" alt="Microsoft Azure" width="120">
+<img src="https://github.com/BasitAli05/BasitAli05/assets/106751594/3a739949-48ad-4111-9ae2-6f834a5a1c08" alt="Databricks" width="120" height="70">
+<img src="https://github.com/BasitAli05/BasitAli05/assets/106751594/d8fe3b3c-4ef1-4646-8f17-21e4a7d33047" alt="Python" width="120" height="70">
+<img src="https://github.com/BasitAli05/BasitAli05/assets/106751594/1285c255-904e-48df-b442-12002a3c6f3d" alt="Microsoft Sql Server" width="110">
 
 <!--
 **BasitAli05/BasitAli05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
