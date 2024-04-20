@@ -1,6 +1,18 @@
-### Hello Folks 👋
+## 👋 Hey there! I’m Basit.
 
-🚀 Welcome to my GitHub! I'm a dedicated BSCS student at NED University with much curiosity for data engineering and cloud technology. Join me on this exciting journey as I Learn/Explore and create robust data pipelines and embrace the future of technology! 🌟
+As a final year BSCS student at NED University, I’m passionate about data engineering and all things cloud-related. My journey in the world of data has led me to explore cutting-edge technologies like Azure and AWS, as well as dive into the exciting realm of big data.
+
+### 🌐 What I Do:
+
+1) Data Pipelines: I design robust data pipelines that extract, transform, and load data from various sources ensuring data quality. <br>
+2) SQL Enthusiast: Crafting SQL queries for data analysis and building data models is my jam. I love solving complex problems using data. <br>
+3) Cloud Aficionado: Whether it’s Azure or AWS, I’m fascinated by cloud technologies. From data lakes to warehouses, I’m always eager to learn more.
+
+### 🚀 Why You Should Connect:
+
+1) Looking for collaboration on data engineering projects? Let’s team up! <br>
+2) Want to geek out over data? Count me in!
+3) Hiring a professional, consider me – your data driven problem solver !” 👨‍💻
 _______________________________________________________________________________________________________________________________________________________
 ### 🔭 Technology I have worked on <br>
 <img src="https://github.com/BasitAli05/BasitAli05/assets/106751594/2ddff5b8-eba9-490c-a815-b8729222b1d1" alt="Apache Spark" width="120" height="80">
