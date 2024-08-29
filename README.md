@@ -1,6 +1,6 @@
 ## 👋 Hey there! I’m Basit.
 
-As a final year BSCS student at NED University, I’m passionate about data engineering and all things cloud-related. My journey in the world of data has led me to explore cutting-edge technologies like Azure and AWS, as well as dive into the exciting realm of big data.
+I’m a Computer Science graduate from NED University with a passion for data engineering and cloud technologies. My journey in the world of data has led me to explore cutting-edge technologies like Azure and AWS, as well as dive into the exciting realm of big data.
 
 ### 🌐 What I Do:
 
